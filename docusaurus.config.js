@@ -12,7 +12,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
     title: 'LMS SYSTEM - Học liệu số',
     tagline: 'Hướng dẫn sử dụng',
-    favicon: '/docs-lms/img/logo.jpg',
+    favicon: '/docs-lms-hls/img/logo.jpg',
 
     // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
     future: {
@@ -23,12 +23,12 @@ const config = {
     url: 'https://nd-luan.github.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/docs-lms/',
+    baseUrl: '/docs-lms-hls/',
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'ND-Luan', // Usually your GitHub org/user name.
-    projectName: 'docs-lms', // Usually your repo name.
+    projectName: 'docs-lms-hls', // Usually your repo name.
     deploymentBranch: 'main',
     trailingSlash: false,
     onBrokenLinks: 'throw',
@@ -85,7 +85,7 @@ const config = {
                 title: 'LMS SYSTEM - Học liệu số',
                 logo: {
                     alt: 'My Site Logo',
-                    src: '/docs-lms/img/logo.jpg',
+                    src: '/docs-lms-hls/img/logo.jpg',
                 },
                 items: [
                     {
