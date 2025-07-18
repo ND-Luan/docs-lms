@@ -16,4 +16,5 @@ __Chức năng:__
 6. <img src="/docs-lms/img/chung/huy.png" alt="" width="40" />: Đóng cửa sổ thêm
 7. <img src="/docs-lms/img/chung/luu.png" alt="" width="50" />: Lưu mục  
 
-__Mô tả:__ Người dùng thêm nội dung dạng PPT, DOC & PDF
+__Mô tả:__ Người dùng thêm nội dung dạng PPT, DOC & PDF  
+*<span style={{color:"red"}}>Lưu ý:  Học liệu sẽ được lưu trên ggdrive của nhà trường.</span>*
