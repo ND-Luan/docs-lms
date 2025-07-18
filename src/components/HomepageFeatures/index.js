@@ -4,29 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Nhập điểm, nhận xét',
+    title: 'Học liệu số',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Giao diện được thiết kế trực quan, giúp giáo viên nhanh chóng nhập điểm và đưa ra nhận xét cá nhân hóa cho từng học sinh. Bạn chỉ cần tập trung vào việc đánh giá – chúng tôi sẽ lo phần còn lại.
+        Truy cập kho học liệu số phong phú gồm bài giảng, tài liệu tham khảo, video, bài tập và câu hỏi trắc nghiệm.
+        Dễ dàng chia sẻ, tải lên và tùy biến theo từng khối lớp và môn học.
       </>
     ),
   },
   {
-    title: 'Xem báo cáo học tập',
+    title: 'Soạn học liệu',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Hệ thống tự động tổng hợp điểm số, nhận xét và biểu đồ học tập, giúp bạn nắm bắt kết quả học tập của học sinh mọi lúc, mọi nơi. Tất cả nằm trong một báo cáo trực quan, dễ hiểu.
+        Cho phép giáo viên tạo mới các bài giảng, câu hỏi trắc nghiệm, video hướng dẫn, tài liệu PDF,...
+        Tùy chỉnh nội dung theo từng môn học, khối lớp hoặc mục tiêu giảng dạy.
+        Lưu trữ và chỉnh sửa học liệu dễ dàng ngay trong hệ thống.
       </>
     ),
   },
   {
-    title: 'Học liệu số',
+    title: 'Xem học liệu',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-       Truy cập, chia sẻ và mở rộng kho học liệu với khả năng tùy biến theo từng môn học và cấp lớp. Nền tảng hỗ trợ tích hợp nội dung số, giữ nguyên cấu trúc nhưng luôn sẵn sàng mở rộng khi cần.
+        Truy cập nhanh các học liệu đã có trong kho.
+        Tìm kiếm học liệu theo từ khóa, môn học, lớp học hoặc loại tài liệu.
+        Xem trước nội dung học liệu trực tiếp trên hệ thống.
       </>
     ),
   },

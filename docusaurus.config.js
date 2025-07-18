@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'LMS SYSTEM',
+    title: 'LMS SYSTEM - Học liệu số',
     tagline: 'Hướng dẫn sử dụng',
     favicon: '/docs-lms/img/logo.jpg',
 
@@ -82,7 +82,7 @@ const config = {
             // Replace with your project's social card
             image: 'img/docusaurus-social-card.jpg',
             navbar: {
-                title: 'LMS SYSTEM',
+                title: 'LMS SYSTEM - Học liệu số',
                 logo: {
                     alt: 'My Site Logo',
                     src: '/docs-lms/img/logo.jpg',
