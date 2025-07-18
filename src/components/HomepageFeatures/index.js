@@ -4,38 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Nhập điểm, nhận xét',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Giao diện được thiết kế trực quan, giúp giáo viên nhanh chóng nhập điểm và đưa ra nhận xét cá nhân hóa cho từng học sinh. Bạn chỉ cần tập trung vào việc đánh giá – chúng tôi sẽ lo phần còn lại.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Xem báo cáo học tập',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Hệ thống tự động tổng hợp điểm số, nhận xét và biểu đồ học tập, giúp bạn nắm bắt kết quả học tập của học sinh mọi lúc, mọi nơi. Tất cả nằm trong một báo cáo trực quan, dễ hiểu.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Học liệu số',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       Truy cập, chia sẻ và mở rộng kho học liệu với khả năng tùy biến theo từng môn học và cấp lớp. Nền tảng hỗ trợ tích hợp nội dung số, giữ nguyên cấu trúc nhưng luôn sẵn sàng mở rộng khi cần.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
