@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_lms=self.webpackChunkdocs_lms||[]).push([[9408],{6445:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/docs-lms-hls/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

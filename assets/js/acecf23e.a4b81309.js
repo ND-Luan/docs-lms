@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_lms=self.webpackChunkdocs_lms||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/docs-lms/blog","blogTitle":"Blog","authorsListPath":"/docs-lms/blog/authors"}')}}]);
