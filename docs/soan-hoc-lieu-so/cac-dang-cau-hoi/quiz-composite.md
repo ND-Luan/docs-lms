@@ -6,6 +6,8 @@ title: Bài thi
 
 # BÀI THI 
 
+<a href="/docs-lms/docs/files/Bai-thi-mau.docx" download>📄 Tải file mẫu</a>
+
 ### I. Bài thi không phân nhóm
 #### Trang chính
 <div style={{ display: "flex" }}>
