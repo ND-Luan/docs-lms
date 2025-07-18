@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Giới thiệu 
+            Giới thiệu
           </Link>
         </div>
       </div>
@@ -32,8 +32,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={siteConfig.title}
+      description="Trang hướng dẫn sử dụng hệ thống quản lý học tập: nhập điểm, xem báo cáo và truy cập học liệu số.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
