@@ -16,5 +16,5 @@ __Chức năng:__
 3. <img src="/docs-lms/img/chung/back2.png" alt="quay lại" width="70" />: Quay lại nội dung trước
 4. <img src="/docs-lms/img/chung/next.png" alt="tiếp" width="70" />: Nội dung tiếp theo
 
-__Mô tả:__ Người dùng xem học liệu Văn bản hoặc HTML
+__Mô tả:__ Người dùng xem học liệu ISpring
 
