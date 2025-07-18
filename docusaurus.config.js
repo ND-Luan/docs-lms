@@ -11,8 +11,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'LMS SYSTEM',
-  tagline: 'Hướng dẫn sử dụng',
-  favicon: 'img/favicon.png',
+  tagline: 'Dinosaurs are cool',
+  favicon: '/docs-lms/img/logo.jpg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -23,7 +23,7 @@ const config = {
   url: 'https://nd-luan.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs-lms',
+  baseUrl: '/docs-lms/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -85,7 +85,7 @@ const config = {
         title: 'LMS SYSTEM',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.jpg',
+          src: '/docs-lms/img/logo.jpg',
         },
         items: [
           {
@@ -94,6 +94,12 @@ const config = {
             position: 'left',
             label: 'Hướng dẫn sử dụng',
           },
+          // { to: '/blog', label: 'Blog', position: 'left' },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {

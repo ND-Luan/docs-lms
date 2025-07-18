@@ -12,8 +12,19 @@ __Chức năng:__
 
 __Mô tả:__ Người dùng chọn cấp độ học
 
-### II. Chọn môn học
+### II. Chọn học liệu
 ![Chọn môn](/img/hoc-lieu-so/trang-chu/chon-mon.png)  
 __Chức năng:__
-1. <img src="/img/hoc-lieu-so/trang-chu/mui-ten.png" alt="chọn" width="30" />: Chọn để hiện thị những sách có trong Khối này (đối với THCS và THPT sẽ là nội dung)
-2. Vùng chọn sách hiển thị để chọn sách
+1. <img src="/docs-lms/img/hoc-lieu-so/trang-chu/mui-ten.png" alt="chọn" width="30" />: Chọn để hiện thị những học liệu có trong Khối này (đối với THCS và THPT sẽ là nội dung)
+2. Vùng chọn học liệu
+
+__Mô tả:__ Người dùng chọn học liệu
+
+### III. Chi tiết học liệu
+![Chi tiết học liệu](/img/hoc-lieu-so/trang-chu/chi-tiet-hoc-liẹu.png)
+__Chức năng:__
+1. Tên học liệu
+2. Vùng chọn các Chương có trong học liệu
+3. Vùng chọn nội dung trong Chương
+
+__Mô tả:__ Người dùng có thể chọn Chương và xem các nội dung có trong Chương
