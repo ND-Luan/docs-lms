@@ -17,4 +17,5 @@ __Chức năng:__
 7. <img src="/docs-lms/img/chung/huy.png" alt="" width="40" />: Đóng cửa sổ thêm
 8. <img src="/docs-lms/img/chung/luu.png" alt="" width="50" />: Lưu mục  
 
-__Mô tả:__ Người dùng thêm nội dung dạng Audio
+__Mô tả:__ Người dùng thêm nội dung dạng Audio  
+*<span style={{color:"red"}}>Lưu ý:  Học liệu sẽ được lưu trên ggdrive của nhà trường.</span>*

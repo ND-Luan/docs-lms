@@ -13,9 +13,26 @@ __Chức năng:__
 __Mô tả:__ Người dùng chọn cấp độ học
 
 ### II. Chọn học liệu
+#### 1. Cấp 1 (Tiểu học)
 ![Chọn môn](/img/hoc-lieu-so/trang-chu/chon-mon.png)  
 __Chức năng:__
-1. <img src="/docs-lms/img/hoc-lieu-so/trang-chu/mui-ten.png" alt="chọn" width="30" />: Chọn để hiện thị những học liệu có trong Khối này (đối với THCS và THPT sẽ là nội dung)
+1. <img src="/docs-lms/img/hoc-lieu-so/trang-chu/mui-ten.png" alt="chọn" width="30" />: Chọn để hiện thị những học liệu có trong Khối này
+2. Vùng chọn học liệu
+
+__Mô tả:__ Người dùng chọn học liệu
+
+#### 1. Cấp 2 (THCS)
+![Chọn môn](/img/hoc-lieu-so/trang-chu/chon-mon2.png)  
+__Chức năng:__
+1. <img src="/docs-lms/img/hoc-lieu-so/trang-chu/mui-ten.png" alt="chọn" width="30" />: Chọn để hiện thị những học liệu các lớp có trong môn này
+2. Vùng chọn học liệu
+
+__Mô tả:__ Người dùng chọn học liệu
+
+#### 1. Cấp 3 (THPT)
+![Chọn môn](/img/hoc-lieu-so/trang-chu/chon-mon3.png)  
+__Chức năng:__
+1. <img src="/docs-lms/img/hoc-lieu-so/trang-chu/mui-ten.png" alt="chọn" width="30" />: Chọn để hiện thị những học liệu các lớp có trong môn này
 2. Vùng chọn học liệu
 
 __Mô tả:__ Người dùng chọn học liệu

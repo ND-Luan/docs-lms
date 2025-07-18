@@ -18,8 +18,10 @@ __Chức năng:__
 8. <img src="/docs-lms/img/soan-hoc-lieu-so/trang-chu/them.png" alt="" width="30" />: Thêm mục con
 9. <img src="/docs-lms/img/soan-hoc-lieu-so/trang-chu/xoa.png" alt="" width="30" />: Xóa mục
 
-__Mô tả:__ Người dùng chọn sách để soạn học liệu
-
+__Mô tả:__ Người dùng chọn sách để soạn học liệu  
+*<span style={{color:"red"}}>Lưu ý:  
+Cấu trúc soạn học liệu là  
+CHUONG => NHOM_KY_NANG hoặc BAI => Các nội dung như câu hỏi hoặc audio,video, v.v...</span>*
 ### II. Thêm mục gốc
 ![Trang Chủ](../../static/img/soan-hoc-lieu-so/trang-chu/them-muc-goc-page.png)  
 __Chức năng:__  
